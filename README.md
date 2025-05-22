@@ -2,7 +2,7 @@
 1.8.9 Spigot Minecraft Anticheat
 
 
-**You can find this project also in: https://www.spigotmc.org/resources/mog-anticheat.125279/**
+**You can find this project also in: https://www.spigotmc.org/resources/mog-anticheat.125279/**.
 
 --- 
 
