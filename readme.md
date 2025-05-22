@@ -4,8 +4,7 @@
 
 **You can find this project also in: https://www.spigotmc.org/resources/mog-anticheat.125279/**.
 
-![Stars](https://img.shields.io/github/stars/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=brightgreen) ![Forks](https://img.shields.io/github/forks/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=blue) ![Issues](https://img.shields.io/github/issues/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=yellow)
-
+![Stars](https://img.shields.io/github/stars/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=brightgreen) ![Forks](https://img.shields.io/github/forks/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=blue) ![Issues](https://img.shields.io/github/issues/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=yellow) ![Pull Requests](https://img.shields.io/github/issues-pr/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=orange) ![License](https://img.shields.io/github/license/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=red)
 --- 
 
 ## Simple Anti-Cheat for Spigot 1.8.9
