@@ -1,4 +1,4 @@
-Go to [MOG-ANTICHEAT 1.0.0](https://hangar.papermc.io/mogdeveloping/MOG-ANTICHEAT) to download it!
+Go to [MOG-ANTICHEAT 1.0.0](https://mog-developing.github.io/MOG-ANTICHEAT/) to download it!
 
 ---
 
