@@ -2,7 +2,7 @@
 1.8.9 Spigot Minecraft Anticheat
 
 
-**You can find this project also in: [Spigot](https://www.spigotmc.org/resources/mog-anticheat.125279/) [PaperMC](https://hangar.papermc.io/mogdeveloping/MOG-ANTICHEAT)
+You can find this project also in: [Spigot](https://www.spigotmc.org/resources/mog-anticheat.125279/) [PaperMC](https://hangar.papermc.io/mogdeveloping/MOG-ANTICHEAT)
 
 ![Stars](https://img.shields.io/github/stars/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=brightgreen) ![Forks](https://img.shields.io/github/forks/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=blue) ![Issues](https://img.shields.io/github/issues/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=yellow) ![Pull Requests](https://img.shields.io/github/issues-pr/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=orange) ![License](https://img.shields.io/github/license/MOG-Developing/MOG-ANTICHEAT?style=for-the-badge&color=red)
 --- 
