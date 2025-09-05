@@ -1,0 +1,43 @@
+# Configuration for MOG-ANTICHEAT_V1.1
+
+enabled: true
+alerts-prefix: "[MOG-ANTICHEAT_V1.1]"
+punish-command: "kick %player% [MOG-AC] Unfair advantage"
+
+checks:
+  Speed:
+    enabled: true
+    max-violations: 10
+  Spider:
+    enabled: true
+    max-violations: 10
+  Timer:
+    enabled: true
+    max-violations: 10
+  Scaffold:
+    enabled: true
+    max-violations: 8
+    min-place-interval-ms: 120
+    require-looking-threshold: 0.28
+    exempt-join-seconds: 6
+  Destroyer:
+    enabled: true
+    max-violations: 10
+  PacketSpammer:
+    enabled: true
+    max-violations: 10
+  Reach:
+    enabled: true
+    max-violations: 10
+  KillAura:
+    enabled: true
+    max-violations: 12
+    rotation-diff-threshold: 35.0
+    fov-threshold: 0.32
+    multi-entities-per-second: 3
+  Fly:
+    enabled: true
+    max-violations: 10
+    vertical-threshold: 0.5
+    air-ticks-threshold: 14
+    exempt-velocity-ms: 1500

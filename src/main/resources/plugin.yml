@@ -1,0 +1,20 @@
+name: MOG-ANTICHEAT_V1.1
+version: 1.1.0
+main: com.mogdeveloping.mogac.MOGAC
+author: MOG-Developing
+description: MOG-ANTICHEAT_V1.1 by MOG-Developing
+commands:
+  mogac:
+    description: Main command for MOG-ANTICHEAT_V1.1
+    aliases: [moganticheat, ac]
+    permission: mogac.admin
+permissions:
+  mogac.admin:
+    description: Allows access to all MOG-ANTICHEAT_V1.1 commands
+    default: op
+  mogac.alerts:
+    description: Allows receiving alerts when players are detected cheating
+    default: op
+  mogac.bypass:
+    description: Allows bypassing all checks
+    default: op
