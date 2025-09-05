@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOG-ANTICHEAT</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .container {
+            max-width: 800px;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(10px);
+        }
+        
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            margin-bottom: 40px;
+            opacity: 0.9;
+        }
+        
+        .download-section {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            margin: 30px 0;
+        }
+        
+        .download-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 18px 25px;
+            font-size: 1.3rem;
+            background: rgba(255, 255, 255, 0.1);
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            color: #fff;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .download-btn:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+        
+        .download-btn i {
+            margin-right: 12px;
+            font-size: 1.5rem;
+        }
+        
+        .paper { border-left: 5px solid #ff5252; }
+        .spigot { border-left: 5px solid #4caf50; }
+        .github { border-left: 5px solid #2196f3; }
+        
+        .copyright {
+            margin-top: 40px;
+            font-size: 0.9rem;
+            opacity: 0.7;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 25px;
+            }
+            
+            h1 {
+                font-size: 2.2rem;
+            }
+            
+            .download-btn {
+                padding: 15px 20px;
+                font-size: 1.1rem;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>MOG-ANTICHEAT</h1>
+        <p class="subtitle">Advanced anti-cheat solution for Minecraft servers</p>
+        
+        <div class="download-section">
+            <a href="https://hangar.papermc.io/mogdeveloping/MOG-ANTICHEAT" class="download-btn paper">
+                <i class="fab fa-java"></i>Download from PaperMC
+            </a>
+            
+            <a href="https://www.spigotmc.org/resources/mog-anticheat.125279/" class="download-btn spigot">
+                <i class="fas fa-cube"></i>Download from Spigot
+            </a>
+            
+            <a href="https://github.com/MOG-Developing/MOG-ANTICHEAT/releases" class="download-btn github">
+                <i class="fab fa-github"></i>Download from GitHub
+            </a>
+        </div>
+        
+        <p class="copyright">Thanks for using our ANTICHEAT!</p>
+    </div>
+</body>
+</html>
